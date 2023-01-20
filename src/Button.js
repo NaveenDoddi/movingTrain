@@ -14,6 +14,7 @@ function Toggle(){
         </button>
         <button onClick={()=> setColor("voilet")}>
             voilet
+            {/* thankyougod */}
         </button>
         </>
     )
