@@ -1,0 +1,116 @@
+
+h1{
+    text-align: justify;
+}
+
+#div1{ 
+    /* Mumbai */
+    position: relative;
+    left: 0px;
+    top: -100px
+}
+#div2{ 
+    /* GOa */
+    /* text-align:center; */
+    position: relative;
+    left: 30px;
+    top: 20px
+}
+#div3{
+    /* kochi */
+    position: relative;
+    left: 70px;
+    top: 120px;
+}
+#div4{
+    /* kk */
+    position: relative;
+    left: 170px;
+    top: 120px
+}
+#div5{
+    /* chennai */
+    position: relative;
+    left: 280px;
+    top: -100px
+}
+#div6{
+    /* vizag */
+    position: relative;
+    left: 430px;
+    top: -350px
+}
+#div7{
+    /* Kolkata */
+    position: relative;
+    left: 650px;
+    top: -550px
+}
+#div0{
+    position: relative;
+    left: 100px;
+    top: 500px
+}
+#div01{
+    /* Gandhi */
+    position: relative;
+    left: 20px;
+    top: -80px
+}
+#div02{
+    /* punjab */
+    position: relative;
+    left: 140px;
+    top: -300px
+}
+#div03{
+    /* kashmir */
+    position: relative;
+    left: 250px;
+    top: -520px
+}
+#div04{
+    /* Delhi */
+    position: relative;
+    left: 350px;
+    top: -400px
+}
+#div05{
+    /* sikkim */
+    position: relative;
+    left: 580px;
+    top: -390px
+}
+#div06{
+    /* ap */
+    position: relative;
+    left: 900px;
+    top: -530px
+}
+#div07{
+    /* mizoram */
+    position: relative;
+    left: 950px;
+    top: -330px
+}
+
+#res1{
+    border: 2px solid;
+    position: relative;
+    top :380px;
+    left: 500px;
+    background-color: lightblue;
+    height: 40px;
+    width: 60px;
+    text-align: center;
+}
+#res2{
+    border: 2px solid;
+    position: relative;
+    top: 20px;
+    left: 500px;
+    background-color: red;
+    height: 40px;
+    width: 60px;
+    text-align: center;
+}
